@@ -1,6 +1,6 @@
 name: Noosa Village Jewellers
 favicon: null
-layout_spectrum: 0.9342255510855466
+layout_spectrum: 0.99687
 typography_spectrum: 0.12202603579498827
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#d3d1d2'
     - '#112c3f'
     - '#727075'
-  brandStrength: 0.014840865507721901
+  brandStrength: 1
   lightness: 0.05082254693843424
   saturation: 0.487572981743142
   rhythmicContrast: 0.2727324494626373
